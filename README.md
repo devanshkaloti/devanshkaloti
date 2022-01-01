@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my small world of software development. Here, you'll find some of my professional projects as well as other fun projects. 
+Welcome to my world of software development. Here, you'll find some of my professional projects as well as other fun projects. 
 
 I'm currently pursuing Management Engineering at the University of Waterloo, a program geared towards software engineering, product management princples, data analysis, and business optimization. 
 
