@@ -21,5 +21,5 @@ I'm currently pursuing Management Engineering at the University of Waterloo, a p
 
 Want to ask me a question, or have something to share? Let's connect, and we can have a socially distanced chat! Find me on Linkedin - Devansh Kaloti 
 
-[![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkaloti&theme=react)](https://github.com/devanshkaloti/github-readme-stats)
+<!-- [![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshkaloti&theme=react)](https://github.com/devanshkaloti/github-readme-stats) -->
 
